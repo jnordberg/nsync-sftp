@@ -1,0 +1,15 @@
+{
+  "name": "nsync-sftp",
+  "version": "0.1.0",
+  "description": "sftp transport for nsync",
+  "main": "lib/index.js",
+  "author": "Johan Nordberg <code@johan-nordberg.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnordberg/nsync-sftp.git"
+  },
+  "dependencies": {
+    "ssh2": "^0.2.21"
+  }
+}
