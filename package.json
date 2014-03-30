@@ -1,6 +1,6 @@
 {
   "name": "nsync-sftp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "sftp transport for nsync",
   "main": "lib/index.js",
   "author": "Johan Nordberg <code@johan-nordberg.com>",
